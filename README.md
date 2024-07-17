@@ -1,27 +1,16 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+<h1 align="center"> 🤩 hello, i'm mika 🤩 </h1>
+<h3 align="center">🚀 dev for test🚀</h3>
 
-Hi there, thanks for stopping by, this is **Charles Zhang**.
+### 💻 my favorite stack:
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230" alt="">
+- Java
+- python
+- A little C
 
-```javascript
-const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["Java", "test", "game"],
-    technologies: {
-        backEnd: ["Java", "python"],
-        databases: ["MySql", "oracle"],
-    }
-};
-```
+### 👧 a little about myself:
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+- I'm 24 years old., and I live in Beijing
+- Interested in emerging technologies
+- Recently played: Genshin
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ" alt="">
-</a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ" alt="">
-</a>
-
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+<h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
