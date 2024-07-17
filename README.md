@@ -9,7 +9,7 @@
 
 ### 👧 a little about myself:
 
-- I'm 24 years old., and I live in Beijing
+- I'm 24 years old., and I'm happy to make new friends
 - Interested in emerging technologies
 - Recently played: Genshin
 
